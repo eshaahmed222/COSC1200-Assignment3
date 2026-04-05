@@ -1,6 +1,7 @@
+// minor update
 /**
  * @author : Esha Minhaj
- * Date: April 2026
+ * Date:4 April 2026
  * Description: This program allows the user to create, edit, delete,
  * and display products in a small retail store system.
  */
